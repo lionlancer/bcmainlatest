@@ -1,4 +1,5 @@
 repositories{
+	maven { url "https://maven.google.com" }
 	jcenter()
     flatDir{
         dirs 'libs'
